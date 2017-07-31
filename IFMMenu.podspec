@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name        = 'IFMMenu'
-s.version     = '1.0.1'
+s.version     = '1.0.2'
 s.authors     = { 'liugangios' => 'ustbliugang@163.com' }
 s.homepage    = 'https://github.com/liugangios/IFMMenu'
 s.summary     = 'a dropdown menu for ios like wechat homepage.'

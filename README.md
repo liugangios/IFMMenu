@@ -6,6 +6,19 @@
 # GIF展示
 ![动图.gif](http://upload-images.jianshu.io/upload_images/953487-68193b87b16e8f69.gif?imageMogr2/auto-orient/strip)
 
+#安装
+ **CocoaPods**
+
+1. 在 `Podfile` 中添加 `pod 'IFMMenu'`
+2. 执行 `pod install` 或 `pod update`
+3. 导入 `<IFMMenu/IFMMenu.h> `
+
+**手动安装**
+
+1. 下载`IFMMenu`文件夹内的所有内容。
+2. 将`IFMMenu`内的源文件添加(拖放)到你的工程。
+3. 导入`IFMMenu.h`
+
 # 使用
 
 ```

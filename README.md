@@ -8,13 +8,13 @@
 
 #安装
 
- **CocoaPods**
+###  CocoaPods
 
 1. 在 `Podfile` 中添加 `pod 'IFMMenu'`
 2. 执行 `pod install` 或 `pod update`
 3. 导入 `<IFMMenu/IFMMenu.h> `
 
-**手动安装**
+### 手动安装
 
 1. 下载`IFMMenu`文件夹内的所有内容。
 2. 将`IFMMenu`内的源文件添加(拖放)到你的工程。

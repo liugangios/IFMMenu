@@ -69,6 +69,7 @@
     [menu showFromNavigationController:self.navigationController WithX:[UIScreen mainScreen].bounds.size.width-32];
 }
 
+//tabBar导航栏弹出
 - (void)tabBarController:(UITabBarController *)tabBarController didSelectViewController:(UIViewController *)viewController
 {
     NSMutableArray *menuItems = [[NSMutableArray alloc] initWithObjects:

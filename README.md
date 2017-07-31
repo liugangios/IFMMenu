@@ -6,7 +6,8 @@
 # GIF展示
 ![动图.gif](http://upload-images.jianshu.io/upload_images/953487-68193b87b16e8f69.gif?imageMogr2/auto-orient/strip)
 
-#安装
+
+# 安装
 
 ###  CocoaPods
 
